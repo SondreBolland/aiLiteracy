@@ -10,4 +10,4 @@ This repository contains material for a lecture providing freshers information o
 1. An (uncompleted) document describing AI literacy and information for first-semester students formed on its basis
 2. A video presentation of this information
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=MHdyzG2Qv9Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![AI Literacy - INFO132](https://www.youtube.com/watch?v=MHdyzG2Qv9Q)](https://youtube.com)
