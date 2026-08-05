@@ -7,6 +7,7 @@ This repository contains material for a lecture providing freshers information o
 * How do people perceive AI?
 
 ## Materials
-1. A (uncompleted) document describing AI literacy and information for first-semester students formed on its basis
+1. An (uncompleted) document describing AI literacy and information for first-semester students formed on its basis
 2. A video presentation of this information
-3. The powerpoint used in the video
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=MHdyzG2Qv9Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
